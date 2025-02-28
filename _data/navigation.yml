@@ -4,9 +4,31 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
+
 main:
+  - title: "Home"
+    url: "/"
   - title: "Publications"
-    url: /publications/
+    manuscripts:
+      title: "Journal Articles"
+      items:
+        - title: 'Exploration and Optimization Analysis of the Practical Path of Innovation and Entrepreneurship Education in Universities'
+          authors: 'Yubing Han, Shengrui Liang'
+          journal: 'Journal of Educational Research and Policies'
+          year: '2023'
+        - title: 'Research on the Lack of Public Policies in the Development of Social Enterprises in China'
+          authors: 'Peilun Chen, Yubing Han, Zhicai Wang'
+          journal: 'Academic Journal of Humanities & Social Sciences'
+          year: '2022'
+        - title: 'The Current Situation of the Tea Industry in Huangpi District, Wuhan and Development Suggestions'
+          authors: 'Shaopeng Guo, Yubing Han'
+          journal: 'Tea in Fujian'
+          year: '2021'
+        - title: 'Research and Countermeasures on the Development Path of “Promoting Tea with Tourism” in the Context of Rural Revitalization—Take Huangpi District, Wuhan as An Example'
+          authors: 'Guicai Liu, Yubing Han, Yixuan Liu'
+          journal: 'Rent and Sale Information'
+          year: '2021'
+
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
