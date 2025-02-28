@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student and researcher from [McCourt School of Public Policy](https://mccourt.georgetown.edu/),[Georgetown University](https://www.georgetown.edu/). I'm interested in policy analysis, data evaluation, and organizational management. My background spans public policy research, HR operations, economic development, and organizational leadership. I have conducted empirical research on financial accessibility, rural revitalization, and workforce development, leveraging statistical analysis (Stata, Excel), literature reviews, and policy evaluation to generate actionable insights. 
+I am a graduate student and researcher from [McCourt School of Public Policy](https://mccourt.georgetown.edu/), [Georgetown University](https://www.georgetown.edu/). I'm interested in policy analysis, data evaluation, and organizational management. My background spans public policy research, HR operations, economic development, and organizational leadership. I have conducted empirical research on financial accessibility, rural revitalization, and workforce development, leveraging statistical analysis (Stata, Excel), literature reviews, and policy evaluation to generate actionable insights. 
 
 My published papers explore higher education policy, social enterprise development, and economic inequality, reinforcing my ability to synthesize complex data into strategic recommendations.
 
