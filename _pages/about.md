@@ -14,4 +14,4 @@ My published papers explore higher education policy, social enterprise developme
 
 In addition to research, I have extensive experience in HR operations, organizational development, and administrative tasks. With a passion for public policy, economic equity, and human capital development, I am eager to apply my skills in research, data analysis, HR operations, and strategic communication to policy-driven organizations and research institutions.
 
-You can connect with me on [LinkedIn](www.linkedin.com/in/seroviahan)
+You can connect with me on [LinkedIn](http://www.linkedin.com/in/seroviahan)
