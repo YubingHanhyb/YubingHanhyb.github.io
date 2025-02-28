@@ -1,7 +1,6 @@
 ---
-title: "The Current Situation of the Tea Industry in Huangpi District, Wuhan and Development Suggestions"
+Title: "The Current Situation of the Tea Industry in Huangpi District, Wuhan and Development Suggestions"
 Collection: publications
-Category: manuscripts
 Year: 2021
 Journal: 'Tea in Fujian'
 Authors: 'Shaopeng Guo, Yubing Han'
