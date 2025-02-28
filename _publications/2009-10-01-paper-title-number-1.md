@@ -1,4 +1,10 @@
 ---
+layout: single
+title: "Publications"
+permalink: /_publications/
+---
+
+---
 Title: "Exploration and Optimization Analysis of the Practical Path of Innovation and Entrepreneurship Education in Universities"
 Collection: publications
 Year: 2023
