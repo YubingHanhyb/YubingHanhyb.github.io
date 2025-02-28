@@ -19,22 +19,10 @@ You can connect with me on [LinkedIn](http://www.linkedin.com/in/seroviahan)
 
 Publications:
 
-Exploration and Optimization Analysis of the Practical Path of Innovation and Entrepreneurship Education in Universities'
-Authors: Yubing Han, Shengrui Liang
-Journal: Journal of Educational Research and Policies
-Year: 2023
+Yubing Han, Shengrui Liang. Exploration and Optimization Analysis of the Practical Path of Innovation and Entrepreneurship Education in Universities—Take Wuhan Textile University as An Example [J]. Journal of Educational Research and Policies, 2023, 5(2)
 
-Research on the Lack of Public Policies in the Development of Social Enterprises in China
-Authors: Peilun Chen, Yubing Han, Zhicai Wang
-Journal: Academic Journal of Humanities & Social Sciences
-Year: 2022
+Peilun Chen, Yubing Han, Zhicai Wang. Research on the Lack of Public Policies in the Development of Social Enterprises in China [J]. Academic Journal of Humanities & Social Sciences, Volume 5, Issue 8, July 2022: 17-21.
 
-The Current Situation of the Tea Industry in Huangpi District, Wuhan and Development Suggestions
-Authors: Shaopeng Guo, Yubing Han
-Journal: Tea in Fujian
-Year: 2021
+Shaopeng Guo, Yubing Han, Junlin Li. The Current Situation of the Tea Industry in Huangpi District, Wuhan and Development Suggestions [J]. Tea in Fujian, 2021, 43(11): 49-50.
 
-Research and Countermeasures on the Development Path of “Promoting Tea with Tourism” in the Context of Rural Revitalization
-Authors: Guicai Liu, Yubing Han, Yixuan Liu
-Journal: Rent and Sale Information
-Year: 2021
+Guicai Liu, Yubing Han, Yixuan Liu. Research and Countermeasures on the Development Path of “Promoting Tea with Tourism” in the Context of Rural Revitalization—Take Huangpi District, Wuhan as An Example [J]. Rent and Sale Information, 2021 (8): 135-136
