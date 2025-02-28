@@ -1,7 +1,6 @@
 ---
 Title: "Research on the Lack of Public Policies in the Development of Social Enterprises in China"
 Collection: publications
-Category: manuscripts
 Year: 2022
 Journal: 'Academic Journal of Humanities & Social Sciences'
 Authors: 'Peilun Chen, Yubing Han, Zhicai Wang'
